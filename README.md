@@ -37,11 +37,7 @@ Cookit! is a platform where you can search for recipes based on the ingredients 
 This project was developed as a Harvard's CS50 final project.
 ### ✨ Demo
 
-<h2 align='center'>
-	<a>
-      		<img title="Website" alt="web" src="./demo.gif" width="30%">
-	</a>
-</h2>
+![Web Demo Gif](./demo.gif)
 
 # Features
 - Search by ingredients
